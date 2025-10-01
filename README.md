@@ -37,11 +37,11 @@ Powered by Arch Linux, AUR and official KDE repositories
 https://cdn.kde.org/kde-linux/packaging/packages/  
 
 
-![WelcomeApp](https://github.com/user-attachments/assets/a79e1228-9cc8-4b2c-8a7a-d7badbf9a88d)
-![Desktop](https://github.com/user-attachments/assets/21a898a6-1e51-4aa3-be5e-86849b4da652)
+
+![Desktop]<img width="1280" height="800" alt="Screenshot_archlinux-clone_2025-10-01_15:42:00" src="https://github.com/user-attachments/assets/ca61253d-7475-4735-9748-f31fa7a3783b" />
 ![Apps](https://github.com/user-attachments/assets/41e961e2-b101-44a5-84de-0d7a745aa527)
 ![Dolphin](https://github.com/user-attachments/assets/0bf5a426-defe-4968-8ad6-f7e08f1586af)
-![themeselector](https://github.com/user-attachments/assets/64bccac6-2145-4eab-87c2-b4336ffcb451)
+
 
 
 
