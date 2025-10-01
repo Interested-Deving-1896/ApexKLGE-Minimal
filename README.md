@@ -12,7 +12,7 @@
 
 
 # APEX KDE LINUX GAMER'S EDITION 🎮  
-### *Apex KLGE Minimal Built To Last*  
+### *Apex KLGE Minimal Built To Last For Testers And Builders Only*  
 
 <div align="center">  
 <strong>Custom Built Arch Linux Distro</strong><br>  
